@@ -1,8 +1,5 @@
-# Youtube Downloader bot 
-## Prerequisite
-    ffmpeg
+# Youtube Downloader bot
   
-    
 ## install dependencies
     pip3 install -r requirements.txt
 
