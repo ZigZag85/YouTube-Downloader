@@ -14,13 +14,13 @@ async def start(client, message):
 
     ])
 
-    welcomed = f"""ʜᴇʏ [{message.from_user.first_name}
- ɪᴀᴍ ᴀ ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ..
+    welcomed = f"""ʜᴇʏ {message.from_user.first_name}
+ɪᴀᴍ ᴀ ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ..
 sᴇɴᴅ ᴍᴇ ᴛʜᴇ ᴜʀʟ(ʟɪɴᴋ) ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ..
 
 ➪ Bot Name : ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ
 ➪ Author : [rizadッ](https://telegram.me/riz4d)
-➪ Donate : [Paypal](https://www.paypal.com/paypalme/rizadx96)
+➪ Donate : [Paypal](https://www.payPal.com/paypalme/rizadx96)
 ➪ Language : Python
 ➪ License Type : GNU(GPL)"""
 
