@@ -10,11 +10,19 @@ async def start(client, message):
 
         [InlineKeyboardButton(
 
-            "Follow me on instagram ", url="https://instagram.com/rizad__x96?utm_medium=copy_link")]
+            "✈ Follow me on Instagram ✈", url="https://instagram.com/rizad__x96?utm_medium=copy_link")]
 
     ])
 
-    welcomed = f"Hey <b>{message.from_user.first_name}</b>\n/help for More info"
+    welcomed = f"""ʜᴇʏ [{message.from_user.first_name}
+ ɪᴀᴍ ᴀ ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ..
+sᴇɴᴅ ᴍᴇ ᴛʜᴇ ᴜʀʟ(ʟɪɴᴋ) ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ..
+
+➪ Bot Name : ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ
+➪ Author : [rizadッ](https://telegram.me/riz4d)
+➪ Donate : [Paypal](https://www.paypal.com/paypalme/rizadx96)
+➪ Language : Python
+➪ License Type : GNU(GPL)"""
 
     await message.reply_text(welcomed, reply_markup=joinButton)
 
