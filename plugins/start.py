@@ -8,8 +8,6 @@ async def start(client, message):
 
     joinButton = InlineKeyboardMarkup([
 
-        [InlineKeyboardButton("Channel", url="https://t.me/rx_modz")],
-
         [InlineKeyboardButton(
 
             "Follow me on instagram ", url="https://instagram.com/rizad__x96?utm_medium=copy_link")]
