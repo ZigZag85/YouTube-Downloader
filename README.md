@@ -10,4 +10,4 @@
     - python3 -m bot
     
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/riz4d/YouTube-Downloader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zigzag85/YouTube-Downloader)
